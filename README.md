@@ -1,7 +1,7 @@
 ### Hi there! 👋
 Hello, I'm Quilvia and I'm currently studying in the 3rd semester in Web Development at the Instituto Federal de Educação, Ciência e Tecnologia de Rondônia in Brazil, where I delve into programming, web development, and database knowledge.
 
-
+![cardcaptor-sakura-meiling-li](https://github.com/user-attachments/assets/a18f366e-6e84-4dc7-b738-824bee4a59d5)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quilvia-morais-564a69283/)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/quilvia)
