@@ -17,8 +17,8 @@ Hello, I'm Quilvia and I'm currently studying in the 3rd semester in Web Develop
           
 <h3>Tools & Frameworks</h3>
 <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Cypress" height="30" width="70" src="https://img.shields.io/badge/-CYPRESS-69D3A7?logo=cypress">
-<img align="center" alt="Cypress" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+<img align="center" alt="Cypress" height="20" width="70" src="https://img.shields.io/badge/-CYPRESS-69D3A7?logo=cypress">
+<img align="center" alt="Postman" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
 
           
 
